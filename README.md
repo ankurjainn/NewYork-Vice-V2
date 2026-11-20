@@ -1,11 +1,21 @@
-<div align="center">
+# New York Vice
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+An open-world 3D New York City browser playground built with Three.js, React, TypeScript, and procedural Web Audio.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- Golden-hour NYC mega-map spanning Manhattan, Brooklyn, Queens, Hudson Harbor, parks, playgrounds, cage courts, and Bronx Stadium
+- Exotic supercars, hypercars, muscle coupes, NYC cabs, boats, and a rideable elevated MTA subway network
+- 22 interactive city contracts, spontaneous street events, pickup cricket & streetball, dynamic weather, and procedural Vice-Wave radio stations
+- Low / Medium / High graphics presets with 100% static client-side hosting (no backend or API keys required)
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Run Locally
+```bash
+npm install
+npm run dev
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Production Build & Static Hosting (Cloudflare Pages / Netlify / Vercel)
+```bash
+npm run build
+```
+Deploy the generated `dist/` folder directly as a static site.

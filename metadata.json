@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai Vice",
+  "description": "Explore golden-hour New York City streets in a 3D open-world playground with varied NYC architecture, supercars, elevated MTA subway, dense crowds, park pickup cricket & streetball, and 22 high-stakes contracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
